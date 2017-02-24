@@ -1,0 +1,1 @@
+define({  "name": "Tilda",  "version": "1.0.0",  "description": "Tilda RESTfull API",  "title": "Tilda RESTfull API",  "url": "https://node-88589.onmodulus.net",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-10-20T18:47:30.891Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
